@@ -32,7 +32,7 @@ torchvision==0.9.1+cu111<br>
 tqdm==4.61.2<br>
 # Datasets and pre-processing
 Download:[Abdominal MRI](https://chaos.grand-challenge.org/)<br>
-[Abdominal CT]([https://chaos.grand-challenge.org/](https://www.synapse.org/#!Synapse:syn3193805/wiki/217789)<br>
+[Abdominal CT](https://www.synapse.org/#!Synapse:syn3193805/wiki/217789)<br>
 
 # Training
 # Testing
