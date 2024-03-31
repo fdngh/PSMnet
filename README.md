@@ -1,4 +1,4 @@
-# PSMnet
+# PSMNet
 Codes for the following paper:
 Beyond Singular Prototype: A Prototype Splitting Strategy for Few-Shot Medical Image Segmentation
 # Abstract
@@ -24,7 +24,7 @@ jupyterlab==3.1.12<br>
 matplotlib==3.4.3<br>
 matplotlib-inline==0.1.3<br>
 numpy==1.21.2<br>
-nibabel==2.5.1<br>         
+nibabel==2.5.1<br>
 opencv-python==4.9.0.80<br>
 Pillow==8.3.2<br>
 sacred==0.8.5<br>
