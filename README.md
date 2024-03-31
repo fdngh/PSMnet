@@ -18,22 +18,23 @@ prediction. We validate our method on multiple modal and multi-semantic medical 
 Results demonstrate that our approach achieves superior performance over existing state-of-the-art
 methods.
 # Dependencies<br>
-json5                          0.9.6<br>
-jupyter-server                 1.11.0<br>
-jupyterlab                     3.1.12<br>
-matplotlib                     3.4.3<br>
-matplotlib-inline              0.1.3<br>
-numpy                          1.21.2<br>
-opencv-python                  4.9.0.80<br>
-Pillow                         8.3.2<br>
-sacred                         0.8.5<br>
-scipy                          1.10.1<br>
-SimpleITK                      2.3.1<br>
-tensorboard                    2.6.0<br>
-torch                          1.8.1+cu111<br>
-torchvision                    0.9.1+cu111<br>
-tornado                        6.1<br>
-tqdm                           4.61.2<br>
+json5==0.9.6<br>
+jupyter-server==1.11.0<br>
+jupyterlab==3.1.12<br>
+matplotlib==3.4.3<br>
+matplotlib-inline==0.1.3<br>
+numpy==1.21.2<br>
+nibabel==2.5.1<br>         
+opencv-python==4.9.0.80<br>
+Pillow==8.3.2<br>
+sacred==0.8.5<br>
+scipy==1.10.1<br>
+SimpleITK==2.3.1<br>
+tensorboard==2.6.0<br>
+torch==1.8.1+cu111<br>
+torchvision==0.9.1+cu111<br>
+tornado==6.1<br>
+tqdm==4.61.2<br>
 # Datasets and pre-processing
 Download:
 # Training
