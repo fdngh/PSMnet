@@ -19,21 +19,21 @@ Results demonstrate that our approach achieves superior performance over existin
 methods.
 # Dependencies<br>
 json5                          0.9.6<br>
-jupyter-server                 1.11.0
-jupyterlab                     3.1.12
-matplotlib                     3.4.3
-matplotlib-inline              0.1.3
-numpy                          1.21.2
-opencv-python                  4.9.0.80
-Pillow                         8.3.2
-sacred                         0.8.5
-scipy                          1.10.1
-SimpleITK                      2.3.1
-tensorboard                    2.6.0
-torch                          1.8.1+cu111
-torchvision                    0.9.1+cu111
-tornado                        6.1
-tqdm                           4.61.2
+jupyter-server                 1.11.0<br>
+jupyterlab                     3.1.12<br>
+matplotlib                     3.4.3<br>
+matplotlib-inline              0.1.3<br>
+numpy                          1.21.2<br>
+opencv-python                  4.9.0.80<br>
+Pillow                         8.3.2<br>
+sacred                         0.8.5<br>
+scipy                          1.10.1<br>
+SimpleITK                      2.3.1<br>
+tensorboard                    2.6.0<br>
+torch                          1.8.1+cu111<br>
+torchvision                    0.9.1+cu111<br>
+tornado                        6.1<br>
+tqdm                           4.61.2<br>
 # Datasets and pre-processing
 Download:
 # Training
