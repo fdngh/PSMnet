@@ -18,6 +18,7 @@ prediction. We validate our method on multiple modal and multi-semantic medical 
 Results demonstrate that our approach achieves superior performance over existing state-of-the-art
 methods.
 # Dependencies<br>
+```
 matplotlib==3.4.3<br>
 numpy==1.21.2<br>
 nibabel==2.5.1<br>
@@ -30,6 +31,7 @@ tensorboard==2.6.0<br>
 torch==1.8.1+cu111<br>
 torchvision==0.9.1+cu111<br>
 tqdm==4.61.2<br>
+```
 # Datasets and pre-processing
 ## Datasets
 Download:<br>
