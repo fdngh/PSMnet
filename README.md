@@ -43,4 +43,4 @@ Our pre-processing is performed according to [Ouyang et al](https://github.com/c
 # Training
 # Testing
 # Acknowledgement
-Our implementation is based on the works: [SSL-ALPNet](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation)
+Our implementation is based on the works: [SSL-ALPNet](https://arxiv.org/abs/2007.09886v2)
