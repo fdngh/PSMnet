@@ -37,7 +37,7 @@ Download:<br>👉[Abdominal MRI](https://chaos.grand-challenge.org/)<br>
 👉[Cardiac MRI](https://zmiclab.github.io/zxh/0/mscmrseg19)<br>
 👉[Prostate MRI](https://zenodo.org/record/7013610)<br>
 ## pre-processing
-
+Our preprocessing is performed according to [Ouyang et al](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation/tree/2f2a22b74890cb9ad5e56ac234ea02b9f1c7a535).
 # Training
 # Testing
 # Acknowledgement
