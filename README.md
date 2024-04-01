@@ -47,12 +47,12 @@ Our pre-processing is performed according to [Ouyang et al](https://github.com/c
 Our implementation is based on the works: [SSL-ALPNet](https://arxiv.org/abs/2007.09886v2)
 # The code for the comparison method used in the paper
 👉[SENet]<br>
-👉[PANet]<br>
-👉[ALPNet]<br>
-👉[ADNet]<br>
-👉[Q-Net]<br>
+👉[PANet](https://github.com/kaixin96/PANet)<br>
+👉[ALPNet](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation/tree/2f2a22b74890cb9ad5e56ac234ea02b9f1c7a535)<br>
+👉[ADNet](https://github.com/sha168/ADNet)<br>
+👉[Q-Net](https://github.com/ZJLAB-AMMI/Q-Net)<br>
 👉[]<br>
 👉[]<br>
-👉[]<br>
+👉[PAMI](https://github.com/YazhouZhu19/PAMI)<br>
 
 
