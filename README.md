@@ -41,8 +41,6 @@ Download:<br>
 👉[Prostate MRI](https://zenodo.org/record/7013610)<br>
 ## pre-processing
 Our pre-processing is performed according to [Ouyang et al](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation/tree/2f2a22b74890cb9ad5e56ac234ea02b9f1c7a535).<br>
-
-
 # Training
 # Testing
 # Acknowledgement
