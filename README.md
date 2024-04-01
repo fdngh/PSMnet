@@ -52,7 +52,7 @@ Our implementation is based on the works: [SSL-ALPNet](https://arxiv.org/abs/200
 👉[ADNet](https://github.com/sha168/ADNet)<br>
 👉[Q-Net](https://github.com/ZJLAB-AMMI/Q-Net)<br>
 👉[CAT-Net](https://github.com/hust-linyi/CAT-Net)<br>
-👉[SRPNet]<br>
+👉[SRPNet](https://github.com/q362096112/SRPNet)<br>
 👉[PAMI](https://github.com/YazhouZhu19/PAMI)<br>
 
 
