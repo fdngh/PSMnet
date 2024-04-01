@@ -19,10 +19,10 @@ Results demonstrate that our approach achieves superior performance over existin
 methods.
 # Dependencies<br>
 ```
-matplotlib==3.4.3<br>
-numpy==1.21.2<br>
-nibabel==2.5.1<br>
-opencv-python==4.9.0.80<br>
+matplotlib==3.4.3
+numpy==1.21.2
+nibabel==2.5.1
+opencv-python==4.9.0.80
 Pillow==8.3.2<br>
 sacred==0.8.5<br>
 scipy==1.10.1<br>
