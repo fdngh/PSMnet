@@ -32,7 +32,8 @@ torchvision==0.9.1+cu111<br>
 tqdm==4.61.2<br>
 # Datasets and pre-processing
 ## Datasets
-Download:<br>👉[Abdominal MRI](https://chaos.grand-challenge.org/)<br>
+Download:<br>
+👉[Abdominal MRI](https://chaos.grand-challenge.org/)<br>
 👉[Abdominal CT](https://www.synapse.org/#!Synapse:syn3193805/wiki/217789)<br>
 👉[Cardiac MRI](https://zmiclab.github.io/zxh/0/mscmrseg19)<br>
 👉[Prostate MRI](https://zenodo.org/record/7013610)<br>
@@ -44,3 +45,14 @@ Our pre-processing is performed according to [Ouyang et al](https://github.com/c
 # Testing
 # Acknowledgement
 Our implementation is based on the works: [SSL-ALPNet](https://arxiv.org/abs/2007.09886v2)
+# The code for the comparison method used in the paper
+👉[SENet]<br>
+👉[PANet]<br>
+👉[ALPNet]<br>
+👉[ADNet]<br>
+👉[Q-Net]<br>
+👉[]<br>
+👉[]<br>
+👉[]<br>
+
+
